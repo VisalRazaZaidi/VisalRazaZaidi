@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Visal Raza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img aling="right" alt="coding" width="400" src="https://github.com/Codechamp28/Codechamp28/blob/main/coder.gif">
+<img aling="right" alt="coding" width="900" src="https://github.com/Codechamp28/Codechamp28/blob/main/coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codechamp28&label=Profile%20views&color=0e75b6&style=flat" alt="codechamp28" /> </p>
 
